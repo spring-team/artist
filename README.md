@@ -1,5 +1,7 @@
 # artist
 
+[![Build Status](https://travis-ci.org/spring-team/artist.svg?branch=master)](https://travis-ci.org/spring-team/artist)
+
 This project contains my new project.
 
 ## Development
